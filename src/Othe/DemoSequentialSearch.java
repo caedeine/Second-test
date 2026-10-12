@@ -29,6 +29,7 @@ public class DemoSequentialSearch {
             index++;
         }
         return position;
+
     }
 }
 
